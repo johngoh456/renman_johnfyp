@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334460132391",
+    "project_id": "renman-ebcd0",
+    "storage_bucket": "renman-ebcd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334460132391:android:b4c61209ba094742b54202",
+        "android_client_info": {
+          "package_name": "com.example.renman_johnfyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334460132391-nd1vfrfb1i6c8daa0qmcdep8u54n4usj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYKwyu82GaFKgZE8KkXQfmkOVxI0bcLWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334460132391-nd1vfrfb1i6c8daa0qmcdep8u54n4usj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
