@@ -1,6 +1,6 @@
 # renman_johnfyp
 
-A new Flutter project. Final Year project finished in July2021. Renman mobile application is a android application that use Flutter and android studio as the editor to develop.
+A Flutter project. Final Year project finished in July2021. Renman mobile application is an android application that use Flutter and android studio as the editor to develop.
 The mobile application aims to record the rental details of tenant.
 
 ## Getting Started
